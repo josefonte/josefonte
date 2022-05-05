@@ -18,5 +18,5 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ###
-![RuiL1904's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruil1904&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruil1904&layout=compact&theme=dark)
+![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=josef&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josef&layout=compact&theme=dark)
