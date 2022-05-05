@@ -21,4 +21,5 @@ My github is mainly for college projects and side-projects. Hope you find someth
 
 ###
 ![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=josef&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josef&layout=compact&theme=dark)
+![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=josefonte)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josefonte&layout=compact&theme=dark)
