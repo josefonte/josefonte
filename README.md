@@ -1,5 +1,4 @@
-# Hi, I'm Zé! 🦧
-
+# Hi, I'm Zé! 🦧 ![Java](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/325/orangutan_1f9a7.png)
 #### 📍 I'm from the beautiful city of Barcelos, Braga.
 #### 🎓 Currently, I'm studying Software Engineering @ <a href="https://www.uminho.pt/EN">University of Minho</a>.
 
