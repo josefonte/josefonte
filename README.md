@@ -22,6 +22,8 @@ My github is mainly for college projects and side-projects. Hope you find someth
 ![Intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+<!---
 ###
 ![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=josefonte&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josefonte&layout=compact&theme=dark)
+--->
