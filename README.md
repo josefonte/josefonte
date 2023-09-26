@@ -1,6 +1,6 @@
 # Hi, I'm Zé! 🦧 
 #### 📍 I'm from the beautiful city of Barcelos, Braga.
-#### 🎓 Currently, I'm studying Software Engineering @ <a href="https://www.uminho.pt/EN">University of Minho</a>.
+#### 🎓 Currently, I'm doing my MSc in Software Engineering @ <a href="https://www.uminho.pt/EN">University of Minho</a>.
 
 My github is mainly for college projects and side-projects. Hope you find something useful.
 
@@ -35,6 +35,8 @@ My github is mainly for college projects and side-projects. Hope you find someth
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-pedro-fonte/)
 <!---
 ###
 ![Josef's GitHub stats](https://github-readme-stats.vercel.app/api?username=josefonte&show_icons=true&theme=dark)
