@@ -2,7 +2,7 @@
 #### 📍 I'm from the beautiful city of Barcelos, Braga.
 #### 🎓 Currently, I'm doing my MSc in Software Engineering @ <a href="https://www.uminho.pt/EN">University of Minho</a>.
 
-My github is mainly for college projects and side-projects. Hope you find something useful.
+My github is mainly for college projects and side-projects. Hope you find something useful :) 
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
