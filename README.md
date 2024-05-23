@@ -44,5 +44,5 @@ My github is mainly for college projects and side-projects. Hope you find someth
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### Socials
-[![Gmail](https://img.shields.io/badge/JoséCarvalho-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josebfonte@gmail.com)
-[![Linkedin](https://img.shields.io/badge/JoséCarvalho-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-pedro-fonte/)
+[![Gmail](https://img.shields.io/badge/JoséFonte-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josebfonte@gmail.com)
+[![Linkedin](https://img.shields.io/badge/JoséFonte-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-pedro-fonte/)
