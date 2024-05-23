@@ -4,6 +4,8 @@
 
 My github is mainly for college projects and side-projects. Hope you find something useful :) 
 
+Here are some programming languages, frameworks and tools I have worked with:
+
 ### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
