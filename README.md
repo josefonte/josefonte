@@ -1,6 +1,10 @@
 # Hi, I'm Zé! 🦧 
 #### 📍 I'm from the beautiful city of Barcelos, Braga.
 #### 🎓 Currently, I'm doing my MSc in Software Engineering @ <a href="https://www.uminho.pt/EN">University of Minho</a>.
+Main Interests:
+- Distributed Systems
+- Software Developement (Web and Mobile)
+- AI, ML and Data Science
 
 My github is mainly for college projects and side-projects. Hope you find something useful :) 
 
