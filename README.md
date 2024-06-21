@@ -3,7 +3,7 @@
 #### 🎓 Currently, I'm doing my MSc in Software Engineering @ <a href="https://www.uminho.pt/EN">University of Minho</a>.
 Main Interests:
 - Distributed Systems
-- Software Developement (Web and Mobile)
+- Software Developement (Web and Mobile) & Product Design
 - AI, ML and Data Science
 
 My github is mainly for college projects and side-projects. Hope you find something useful :) 
