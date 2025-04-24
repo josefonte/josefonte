@@ -1,7 +1,7 @@
 # Hi, I'm Zé! 🦧 
 #### 📍 I'm from the beautiful city of Barcelos, Braga and I'm currently living in Munich, Germany 🇩🇪
-#### 🎓 Finishing my MSc in Software Engineering on an Exchange Year @<a href="https://www.lmu.de/en/">LMU Munich</a>
-#### 👨🏻‍💻 Working @<a href="https://promptlyhealth.com/en">Promptly Health</a> as an AI/ML Engineer.
+#### 🎓 Finishing my MSc in Software Engineering on an Exchange Year <a href="https://www.lmu.de/en/">@LMU Munich</a>
+#### 👨🏻‍💻 Working <a href="https://promptlyhealth.com/en">@Promptly Health</a> as an AI/ML Engineer.
 
 Main Interests:
 - AI, ML and Data 
