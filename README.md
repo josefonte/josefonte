@@ -1,5 +1,5 @@
 # Hi, I'm Zé! 🦧 
-#### 📍 I'm from Portugal and I'm currently living in Calgary, Canada 🇩🇪
+#### 📍 I'm from Portugal
 #### 🎓 Finishing my MSc in Software Engineering (<a href="https://www.um.pt/en/">@UMinho</a> | <a href="https://www.lmu.de/en/">@LMU Munich</a>)
 #### 👨🏻‍💻 Working <a href="https://promptlyhealth.com/en">@Promptly Health</a> as an AI/ML Engineer.
 
